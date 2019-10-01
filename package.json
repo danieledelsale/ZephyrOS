@@ -1,0 +1,22 @@
+{
+  "name": "delsi.zephyros",
+  "version": "1.0.0",
+  "description": "ZephyrOS expressjs server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieledelsale/ZephyrOS.git"
+  },
+  "author": "Daniele Del Sale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieledelsale/ZephyrOS/issues"
+  },
+  "homepage": "https://github.com/danieledelsale/ZephyrOS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
